@@ -1,0 +1,2 @@
+7-Zip Chinese Simplified Repository：https://github.com/sparanoid/7z
+EverythingToolbar：https://github.com/stnkl/EverythingToolbar
